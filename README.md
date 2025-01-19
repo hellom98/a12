@@ -1,3 +1,4 @@
+```
 (.conda) testspace ➤ python train.py                                 
 using device: mps
 
@@ -205,3 +206,4 @@ Epoch 2/3 | Step 1100/2640 | Loss: 3.6213 | LR: 1.17e-04 | Time: 460.90s
 Epoch 2/3 | Step 1200/2640 | Loss: 5.3448 | LR: 1.13e-04 | Time: 473.58s
 Epoch 2/3 | Step 1300/2640 | Loss: 3.8046 | LR: 1.09e-04 | Time: 485.89s
 Epoch 2/3 | Step 1400/2640 | Loss: 4.0316 | LR: 1.05e-04 | Time: 498.29s
+```
